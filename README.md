@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @camsmith03
 - 🌱 I’m currently learning Java, Python, C++
+- 🏫 I am a current student at Virginia Tech
 - 📫 How to reach me csmithwork03@gmail.com
 
 <!---
