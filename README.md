@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @camsmith03
-- 🌱 I’m currently learning Rust, Assembly, C, and JS
+- 🌱 I’m currently learning Rust, C, Java and x86 Assembly 
 - 🏫 I am a current undergraduate at Virginia Tech
 - 📫 How to reach me camerons03@vt.edu
 
