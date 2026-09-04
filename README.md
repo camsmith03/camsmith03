@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camsmith03
-- 🌱 I’m currently learning kernel development, Spring Boot, and ReactJS
-- 🏫 I am a current graduate student at Northeastern University
+- 🌱 I’m currently learning kernel development and embedded real-time operating systems 
+- 🏫 I am a current graduate student at Northeastern University and firmware engineer co-op at APC by Schneider Electric
 - 📫 How to reach me smith.camero@northeastern.edu
 
 <!---
